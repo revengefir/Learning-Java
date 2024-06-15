@@ -8,7 +8,7 @@ public class VarInitDemo {
             int y = -1; // y инициализируется при каждом входе в блок
             System.out.println("Значение y равно: "+ y);
             y = 100;
-            System.out.println("Теперь y равно: " +y);
+            System.out.println("Теперь y равно: " + y);
         }
     }
 }
