@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08a90b36-b5bb-4323-b320-1d7be6602ecb" name="Changes" comment="New Code">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/part2/ModDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/part2/NestVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/part2/RelLogOps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="08a90b36-b5bb-4323-b320-1d7be6602ecb" name="Changes" comment="New Code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,39 +46,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.BlockDemo.executor": "Run",
-    "Application.BoolDemo.executor": "Run",
-    "Application.CharArithDemo.executor": "Run",
-    "Application.DynInit.executor": "Run",
-    "Application.Example.executor": "Run",
-    "Application.Example2.executor": "Run",
-    "Application.Example3.executor": "Run",
-    "Application.Exercise1GalToLit.executor": "Run",
-    "Application.Exercise2GalToLitTable.executor": "Run",
-    "Application.ForDemo.executor": "Run",
-    "Application.Hypot.executor": "Run",
-    "Application.IFDemo.executor": "Run",
-    "Application.Inches.executor": "Run",
-    "Application.ModDemo.executor": "Run",
-    "Application.NestVar.executor": "Run",
-    "Application.RelLogOps.executor": "Run",
-    "Application.ScopeDemo.executor": "Run",
-    "Application.Sound.executor": "Run",
-    "Application.StrDemo.executor": "Run",
-    "Application.TypeExample.executor": "Run",
-    "Application.VarInitDemo.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.BlockDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BoolDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharArithDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DynInit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise1GalToLit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise2GalToLitTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hypot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IFDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inches.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ModDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestVar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RelLogOps.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScopeDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sound.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StrDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarInitDemo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -149,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718441609539</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New Code">
+      <option name="closed" value="true" />
+      <created>1718605651785</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718605651786</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
